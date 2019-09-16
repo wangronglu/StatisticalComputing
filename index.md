@@ -16,5 +16,5 @@ description: 课程网站
 | 日期 | | 内容 | |  阅读  | 
 |---------------|---|--------------------------------|---|----------|
 | 09/16 || 一元随机变量的产生   ||  [第1章](Lectures/random_generator_online.pdf) |
-| 10/12 - 10/28 ||  [论文报告安排](https://docs.qq.com/sheet/DRHdUU1hIeVB5Z2ln?c=B32A0A0)  || 论文选取参考 <br> [2006-Meinshause-neighborhood-selection](Papers/2006-Meinshausen-neighborhood-selection.pdf) <br> [2007-Yuan-GroupLasso](Papers/2007-Yuan-GroupLasso.pdf) <br> [2008-Friedman-GraphicalLasso](Papers/2008-Friedman-GraphicalLasso.pdf) <br> [2010-Bondell-mixed-effects-selection](Papers/2010-Bondell-LMMsel.pdf) <br> [2010-Simon-SGL](Papers/2010-Simon-SGLpaper.pdf) <br> [2014-Witten-MultiGraphLasso](2014-Witten-TwoGaussNet.pdf)|
+| 10/12 - 10/28 ||  [论文报告安排](https://docs.qq.com/sheet/DRHdUU1hIeVB5Z2ln?c=B32A0A0)  || 论文选取参考 <br> [2006-Meinshause-neighborhood-selection](Papers/2006-Meinshausen-neighborhood-selection.pdf) <br> [2007-Yuan-GroupLasso](Papers/2007-Yuan-GroupLasso.pdf) <br> [2008-Friedman-GraphicalLasso](Papers/2008-Friedman-GraphicalLasso.pdf) <br> [2010-Bondell-mixed-effects-selection](Papers/2010-Bondell-LMMsel.pdf) <br> [2010-Simon-SGL](Papers/2010-Simon-SGLpaper.pdf) <br> [2014-Witten-MultiGraphLasso](Papers/2014-Witten-TwoGaussNet.pdf)|
 
