@@ -1,1 +1,2 @@
-Course website for Statistical Computing.
+# StatisticalComputing
+Course website for the graduate course.
