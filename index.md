@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 统计计算
+title: 统计计算与蒙特卡洛模拟
 tagline: 2019 秋学期
 description: 课程网站
 ---
