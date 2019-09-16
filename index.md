@@ -6,7 +6,7 @@ description: 课程网站
 ---
 
 #### 课程信息
-* [王璐](http://faculty.csu.edu.cn/wanglu)
+* [王璐](http://faculty.csu.edu.cn/wanglu) (wanglu_stat@csu.edu.cn)
 * 时间地点: 周一 19:00-21:30 数理楼138; 周三 19:00-21:30 数理楼136
 * [课程大纲](Lectures/syllabus.pdf)
 
