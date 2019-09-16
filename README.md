@@ -1,2 +1,1 @@
-# StatisticalComputing 
-Course website for the graduate course.
+# Go to gh-pages branch and check.
