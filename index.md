@@ -14,6 +14,6 @@ description: 课程网站
 
 | 日期 | | 内容 | |  阅读  | 
 |------|---|--------------------------------|---|----------|
-| 09/16 | | 一元随机变量的产生   | |  [第1章](Lectures/random_generator_online.pdf) |
-| 10/12 - 10/28 | 论文报告  | | [论文报告安排](https://docs.qq.com/sheet/DRHdUU1hIeVB5Z2ln?c=B32A0A0) |
+| 09/16 || 一元随机变量的产生   ||  [第1章](Lectures/random_generator_online.pdf) |
+| 10/12 - 10/28 ||  论文报告  || [论文报告安排](https://docs.qq.com/sheet/DRHdUU1hIeVB5Z2ln?c=B32A0A0) |
 
