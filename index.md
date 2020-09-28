@@ -1,19 +1,18 @@
 ---
 layout: page
-title: Statistical Computing and Monte Carlo Simulations (统计计算与蒙特卡洛模拟)
-tagline: 2019 Fall
+title: 统计计算与蒙特卡洛模拟
+tagline: 2020 秋学期
 description: Course Website
 ---
 
-#### Information
-* Instructor: [Lu Wang](http://faculty.csu.edu.cn/wanglu) (wanglu_stat@csu.edu.cn)
-* Time/Location: Mon 19:00-21:30 Math-138; Wed 19:00-21:30 Math-136
-* [Syllabus](Lectures/syllabus.pdf)
+#### 课程信息
+* 时间/地点: 周二 8:00-9:40 数理楼137; 周四 16:00-17:40 数理楼144
+* [课程大纲](Lectures/syllabus.pdf)
 
 ---
-#### Schedule
+#### 教学安排
 
-| Date | | Lecture | |  Lecture notes  | | References |
+| 日期 | | 教学内容 | |  参考资料  | | References |
 |---------------|---|--------------------------------|---|----------|---|--------------------------------------------|
 | 09/16 || generate univariate random variables ||  [第1章](Lectures/random_generator_online.pdf) || Art B. Owen (2013) [Chapter 3-4](https://statweb.stanford.edu/~owen/mc/) |
 | 09/18 || generate random vectors   ||  [第2章](Lectures/random_vector_online.pdf) || Art B. Owen (2013) [Chapter 5](https://statweb.stanford.edu/~owen/mc/) <br> Peter Hoff (2018) [copula, normal matrices](http://www2.stat.duke.edu/~pdh10/Teaching/832/Notes/) <br> Aaron Clauset (2017) [Lecture 1-3](http://tuvalu.santafe.edu/~aaronc/courses/5352/) |
