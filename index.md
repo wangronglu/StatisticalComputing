@@ -12,13 +12,23 @@ description: Course Website
 ---
 #### 教学安排
 
-| 日期 | | 教学内容 | |  参考资料  | | References |
-|---------------|---|--------------------------------|---|----------|---|--------------------------------------------|
-| 09/16 || generate univariate random variables ||  [第1章](Lectures/random_generator_online.pdf) || Art B. Owen (2013) [Chapter 3-4](https://statweb.stanford.edu/~owen/mc/) |
-| 09/18 || generate random vectors   ||  [第2章](Lectures/random_vector_online.pdf) || Art B. Owen (2013) [Chapter 5](https://statweb.stanford.edu/~owen/mc/) <br> Peter Hoff (2018) [copula, normal matrices](http://www2.stat.duke.edu/~pdh10/Teaching/832/Notes/) <br> Aaron Clauset (2017) [Lecture 1-3](http://tuvalu.santafe.edu/~aaronc/courses/5352/) |
-| 09/23 || generate random vectors (cont.)  || 第2章 ||  |
-| 09/25 || generate random processes  || [第3章](Lectures/generate_process_online.pdf) || Art B. Owen (2013) [Chapter 6](https://statweb.stanford.edu/~owen/mc/) |
-| 09/30 || gibbs sampler and MCMC  || [第4章](Lectures/gibbs_sampler.pdf) <br> [第5章](Lectures/Metropolis-Hastings_online.pdf) || Peter Hoff (2009) [Chapter 6 & 10](https://www.springer.com/gp/book/9780387922997) <br> Gelman et al. (2013) [Chapter 12](https://www.taylorfrancis.com/books/9780429113079) <br> Radford Neal (2011) [arXiv](https://arxiv.org/abs/1206.1901) |
-| 10/09 || EM algorithm, gradient descent <br> Newton algorithm, coordinate descent <br> SVM, deep learning  || [第6章](Lectures/EM_algorithm.pdf) <br> [第7章](Lectures/gradient_descent.pdf) <br> [第8章](Lectures/newton_raphson.pdf) <br> [第9章](Lectures/coord_descent_online.pdf) <br> [第10章](Lectures/SVM_KKT_online.pdf) <br> [第11章](Lectures/deep-learning.pdf)||  |
-| 10/12 - 10/24 ||  [Presentation sign-up link](https://docs.qq.com/sheet/DRHdUU1hIeVB5Z2ln?c=B32A0A0)  ||  || <br> Some suggested papers <br> [2006-Meinshause-neighborhood-selection](Papers/2006-Meinshausen-neighborhood-selection.pdf) <br> [2007-Yuan-GroupLasso](Papers/2007-Yuan-GroupLasso.pdf) <br> [2008-Friedman-GraphicalLasso](Papers/2008-Friedman-GraphicalLasso.pdf) <br> [2008-Werner-CovM-KroProd](Papers/2008-Werner-CovM-KroProd.pdf) <br> [2010-Bondell-mixed-effects-selection](Papers/2010-Bondell-LMMsel.pdf) <br> [2010-Simon-SGL](Papers/2010-Simon-SGLpaper.pdf) <br> [2014-Witten-MultiGraphLasso](Papers/2014-Witten-TwoGaussNet.pdf) <br> . . . |
-
+| 日期 | | 教学内容 | |  参考资料  | 
+|---------------|---|--------------------------------|---|----------|
+| 10/10 || 随机变量的产生 ||  [第1章](Lectures/random_generator_online.pdf) |
+| 11/03 - 11/26 ||  [论文报告注册链接](https://docs.qq.com/sheet/DRHdUU1hIeVB5Z2ln?c=B32A0A0)  ||  |
+#### 推荐文章
+1. [Statistical Modeling: The Two Cultures by Leo Breiman, 2001](http://www.stat.cmu.edu/~ryantibs/journalclub/breiman_2001.pdf)
+2. [Regression Models and Life-Tables by David Cox, 1972](http://www.stat.cmu.edu/~ryantibs/journalclub/cox_1972.pdf)
+3. [The Central Role of the Propensity Score in Observational Studies for Causal Effects by Paul Rosenbaum and Don Rubin, 1983](http://www.stat.cmu.edu/~ryantibs/journalclub/rosenbaum_1983.pdf)
+4. [Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing by Yoav Benjamini and Yosef Hochberg, 1995](http://www.stat.cmu.edu/~ryantibs/journalclub/benjamini_1995.pdf)
+5. [Sequential Selection Procedures and False Discovery Rate Control by Max Grazier G'Sell et al., 2014](http://www.stat.cmu.edu/~ryantibs/journalclub/gsell_2014.pdf)
+6. [Capturing Heterogeneity in Gene Expression Studies by Surrogate Variable Analysis by Jeff Leek and John Storey, 2007](http://www.stat.cmu.edu/~ryantibs/journalclub/leek_2007.pdf)
+7. [A Kernel Two-Sample Test by Arthur Gretton et al., 2012](http://www.stat.cmu.edu/~ryantibs/journalclub/gretton_2012.pdf)
+8. [Brownian Distance Covariance by Gabor Szekely and Maria Rizzo, 2009](http://www.stat.cmu.edu/~ryantibs/journalclub/szekely_2009.pdf)
+9. [Confidence Intervals and Hypothesis Testing for High-Dimensional Regression by Adel Javanmard and Andrea Montanari, 2014](http://www.stat.cmu.edu/~ryantibs/journalclub/javanmard_2014.pdf)
+10. [Exact-Post Selection Inference for Forward Stepwise and Least Angle Regression by Jonathan Taylor et al., 2014](http://www.stat.cmu.edu/~ryantibs/journalclub/taylor_2014.pdf)
+11. [Controlling the False Discovery Rate via Knockoffs by Rina Foygel Barber and Emmanuel Candes, 2014](http://www.stat.cmu.edu/~ryantibs/journalclub/barber_2014.pdf)
+12. [Stability Selection by Nicolai Meinshausen and Peter Buhlmann, 2010](http://www.stat.cmu.edu/~ryantibs/journalclub/meinshausen_2010.pdf)
+13. [Dropout Training as Adaptive Regularization by Stefan Wager and Sida Wang and Persy Liang, 2013](http://www.stat.cmu.edu/~ryantibs/journalclub/wager_2013.pdf)
+14. [Why Does Unsupervised Pre-training Help Deep Learning? by Dumitru Erhan et al., 2010](http://www.stat.cmu.edu/~ryantibs/journalclub/erhan_2010.pdf)
+15. [Why Most Published Research Findings are False by John Ioannidis, 2005](http://www.stat.cmu.edu/~ryantibs/journalclub/ioannidis_2005.pdf)
