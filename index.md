@@ -7,14 +7,14 @@ description: Course Website
 
 #### 课程信息
 * 时间/地点: 周二 8:00-9:40 数理楼137; 周四 16:00-17:40 数理楼144
-* [课程大纲](Lectures/syllabus.pdf)
+* [课程大纲](Lecture/syllabus.pdf)
 
 ---
 #### 教学安排
 
 | 日期 | | 教学内容 | |  参考资料  | 
 |---------------|---|--------------------------------|---|----------|
-| 10/10 || 随机变量的产生 ||  [第1章](Lectures/random_generator_online.pdf) |
+| 10/10 || 随机变量的产生 ||  [第1章](Lecture/random_generator_online.pdf) |
 | 11/03 - 11/26 ||  [论文报告注册链接](https://docs.qq.com/sheet/DRHdUU1hIeVB5Z2ln?c=B32A0A0)  ||  |
 
 #### 推荐文章
