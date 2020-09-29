@@ -16,6 +16,7 @@ description: Course Website
 |---------------|---|--------------------------------|---|----------|
 | 10/10 || 随机变量的产生 ||  [第1章](Lectures/random_generator_online.pdf) |
 | 11/03 - 11/26 ||  [论文报告注册链接](https://docs.qq.com/sheet/DRHdUU1hIeVB5Z2ln?c=B32A0A0)  ||  |
+
 #### 推荐文章
 1. [Statistical Modeling: The Two Cultures by Leo Breiman, 2001](http://www.stat.cmu.edu/~ryantibs/journalclub/breiman_2001.pdf)
 2. [Regression Models and Life-Tables by David Cox, 1972](http://www.stat.cmu.edu/~ryantibs/journalclub/cox_1972.pdf)
