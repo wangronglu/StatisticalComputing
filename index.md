@@ -14,7 +14,8 @@ description: Course Website
 
 | 日期 | | 教学内容 | |  参考资料  | 
 |---------------|---|--------------------------------|---|----------|
-| 10/10 || 随机变量的产生 ||  [第1章](Lecture/random_generator_online.pdf) |
+| 10/10 || 随机变量的产生 || [第1章](Lecture/random_generator_online.pdf) |
+| 10/13 || 随机向量的产生 || [第2章](Lecture/random_vector_online.pdf) |
 | 11/03 - 11/26 ||  [论文报告注册链接](https://docs.qq.com/sheet/DRHdUU1hIeVB5Z2ln?c=B32A0A0)  ||  |
 
 #### 推荐文章
