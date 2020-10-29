@@ -20,6 +20,7 @@ description: Course Website
 | 10/20 || 随机过程的产生 ||  |
 | 10/22 || Gibbs抽样与MCMC方法 || [第4章](Lecture/gibbs_sampler.pdf) [第5章](Lecture/Metropolis-Hastings.pdf)|
 | 10/27 || EM算法，梯度下降法，Newton算法，坐标下降法 || [第6章](Lecture/EM_algorithm.pdf) [第7章](Lecture/gradient_descent.pdf) [第8章](Lecture/newton_raphson.pdf) [第9章](Lecture/coord_descent_online.pdf)|
+| 10/29 || AdaBoost，SVM，凸优化理论，ADMM || [第10章](Lecture/adaboost.pdf) [第11章](Lecture/SVM_KKT.pdf) [第12章](Lecture/ADMM.pdf)|
 | 11/03 - 11/26 ||  [论文报告注册链接](https://docs.qq.com/sheet/DRHdUU1hIeVB5Z2ln?c=B32A0A0)  ||  |
 
 #### 推荐文章
