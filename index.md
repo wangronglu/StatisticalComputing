@@ -14,15 +14,15 @@ description: Course Website
 
 | 日期 | | 教学内容 | |  参考资料  | 
 |---------------|---|--------------------------------|---|----------|
-| 10/10 || 随机变量的产生 || [第1章](Lecture/random_generator_online.pdf) |
-| 10/13 || 随机向量的产生 || [第2章](Lecture/random_vector_online.pdf) |
-| 10/15 || 随机过程的产生 || [第3章](Lecture/generate_process_online.pdf) |
+| 10/10 || 随机变量的产生 ||  |
+| 10/13 || 随机向量的产生 ||  |
+| 10/15 || 随机过程的产生 ||  |
 | 10/20 || 随机过程的产生 ||  |
-| 10/22 || Gibbs抽样与MCMC方法 || [第4章](Lecture/gibbs_sampler.pdf) [第5章](Lecture/Metropolis-Hastings.pdf)|
-| 10/27 || EM算法，梯度下降法，Newton算法，坐标下降法 || [第6章](Lecture/EM_algorithm.pdf) [第7章](Lecture/gradient_descent.pdf) [第8章](Lecture/newton_raphson.pdf) [第9章](Lecture/coord_descent_online.pdf)|
-| 10/29 || AdaBoost，SVM，凸优化理论，ADMM || [第10章](Lecture/adaboost.pdf) [第11章](Lecture/SVM_KKT.pdf) [第12章](Lecture/ADMM.pdf)|
-| 11/03 || 深度学习 || [第13章](Lecture/deep-learning.pdf) |
-| 11/03 - 11/26 ||  [论文报告注册链接](https://docs.qq.com/sheet/DRHdUU1hIeVB5Z2ln?c=B32A0A0)  ||  |
+| 10/22 || Gibbs抽样与MCMC方法 ||  |
+| 10/27 || EM算法，梯度下降法，Newton算法，坐标下降法 ||  |
+| 10/29 || AdaBoost，SVM，凸优化理论，ADMM ||  |
+| 11/03 || 深度学习 ||  |
+| 11/03 - 11/26 ||  论文报告  ||  |
 
 #### 推荐文章
 1. [Statistical Modeling: The Two Cultures by Leo Breiman, 2001](http://www.stat.cmu.edu/~ryantibs/journalclub/breiman_2001.pdf)
