@@ -7,7 +7,7 @@ description: Course Website
 
 #### 课程信息
 * 时间/地点: 周三 14:00-15:40 数理楼142; 周五 14:00-15:40 数理楼144
-* [课程大纲](Lecture/syllabus2022spring.pdf)
+* [课程大纲](Lectures/syllabus2022spring.pdf)
 
 ---
 #### 教学安排
