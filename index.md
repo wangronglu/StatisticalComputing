@@ -16,7 +16,7 @@ description: Course Website
 |---------------|---|--------------------------------|---|----------|
 | 3/9 || 随机变量的抽样方法 || [chapter1](Lectures/chapter1.pdf) [(handout)](Lectures/chapter1_handout.pdf) |
 | 3/11 || 随机变量的抽样方法 || [chapter1](Lectures/chapter1.pdf) [(handout)](Lectures/chapter1_handout.pdf) |
-| 3/16 || 随机向量的抽样方法 ||  |
+| 3/16 || 随机向量的抽样方法 || [chapter2](Lectures/chapter2.pdf) [(handout)](Lectures/chapter2_handout.pdf) |
 | 3/18 || 随机向量的抽样方法 ||  |
 | 3/23 || 随机过程的抽样方法 ||  |
 | 3/25 || Gibbs抽样，MCMC，HMC, SMC算法 ||  |
