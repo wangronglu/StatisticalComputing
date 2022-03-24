@@ -19,7 +19,7 @@ description: Course Website
 | 3/16 || 随机向量的抽样方法 || [chapter2](Lectures/chapter2.pdf) [(handout)](Lectures/chapter2_handout.pdf) |
 | 3/18 || 随机向量的抽样方法 || [chapter2](Lectures/chapter2.pdf) [(handout)](Lectures/chapter2_handout.pdf) |
 | 3/23 (13:30 - 15:00) || 随机过程的抽样方法 || [chapter3](Lectures/chapter3.pdf) [(handout)](Lectures/chapter3_handout.pdf)  |
-| 3/25 || Gibbs抽样，MCMC，HMC, SMC算法 ||  |
+| 3/25 || Gibbs抽样，MCMC，HMC, SMC算法 || [chapter4](Lectures/chapter4.pdf) [(handout)](Lectures/chapter4_handout.pdf) |
 | 3/30 || EM算法，梯度下降法，Newton算法 ||  |
 | 4/1 || 坐标下降法，Boosting算法 ||  |
 | 4/6 || 支持向量机 ||  |
