@@ -11,7 +11,7 @@ description: Course Website
 * 3/30 - 4/13的课程采用网络授课，视频及资料将上传到“中南大学研究生在线平台” (网址：https://gracsu.yuketang.cn/)
 * 课程内容答疑及后续时间安排通过QQ群 (705856267) 交流 (验证信息为你的姓名)
 
-<img src="Lectures/QRcode.png" alt="统计计算2022春学期研究生交流群" style="height: 200px; width:200px;"/>
+<img src="Lectures/QRcode.png" alt="统计计算2022春学期研究生交流群" style="height: 200px; width:225px;"/>
 
 ---
 #### 教学安排
