@@ -8,15 +8,14 @@ description: Course Website
 #### 课程信息
 * 时间/地点: 周三 14:00-15:40 数理楼142; 周五 14:00-15:40 数理楼144
 * [课程大纲](Lectures/syllabus2022spring.pdf)
-* 3/30 - 4/13的课程采用网络授课，视频及资料将上传到“中南大学研究生在线平台” (网址：https://gracsu.yuketang.cn/)
-* 课程内容答疑及后续时间安排通过QQ群 (705856267) 交流 (验证信息为你的姓名)
+* 3/30 - 4/13的课程采用网络授课，视频及课件将上传到课程QQ群 (705856267) 
 
 <img src="Lectures/QRcode.png" alt="统计计算2022春学期研究生交流群" style="height: 225px; width:200px;"/>
 
 ---
 #### 教学安排
 
-| 日期 | | 教学内容 | |  幻灯片  | 
+| 日期 | | 教学内容 | |  课件  | 
 |---------------|---|--------------------------------|---|----------|
 | 3/9 || 随机变量的抽样方法 || [chapter1](Lectures/chapter1.pdf) [(handout)](Lectures/chapter1_handout.pdf) |
 | 3/11 || 随机变量的抽样方法 || [chapter1](Lectures/chapter1.pdf) [(handout)](Lectures/chapter1_handout.pdf) |
