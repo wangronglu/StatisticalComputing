@@ -23,10 +23,10 @@ description: Course Website
 | 3/18 || 随机向量的抽样方法 || [chapter2](Lectures/chapter2.pdf) [(handout)](Lectures/chapter2_handout.pdf) |
 | 3/23 (13:30 - 15:00) || 随机过程的抽样方法 || [chapter3](Lectures/chapter3.pdf) [(handout)](Lectures/chapter3_handout.pdf)  |
 | 3/25 || Gibbs抽样 || [chapter4](Lectures/chapter4.pdf) [(handout)](Lectures/chapter4_handout.pdf) |
-| 3/30 || MCMC，HMC, SMC算法 ||  |
-| 4/1 || EM算法，梯度下降法，Newton算法 ||  |
-| 4/6 || 坐标下降法，Boosting算法 ||  |
-| 4/8 || 支持向量机 ||  |
-| 4/13 || ADMM算法，深度学习 ||  |
+| 3/30 || MCMC算法 ||  |
+| 4/1 || HMC, SMC算法 ||  |
+| 4/6 || EM算法，梯度下降法 ||  |
+| 4/8 || Newton算法，坐标下降法 ||  |
+| 4/13 || 支持向量机 || [chapter11](Lectures/chapter11.pdf) [(handout)](Lectures/chapter11_handout.pdf) |
 | 4/15 - 4/29 ||  论文报告  || [时间安排](https://docs.qq.com/sheet/DRHdUU1hIeVB5Z2ln?tab=BB08J2) |
 
