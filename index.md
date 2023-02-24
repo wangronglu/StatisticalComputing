@@ -1,23 +1,28 @@
 ---
 layout: page
 title: 统计计算与蒙特卡洛模拟
-tagline: 2022 春学期
+tagline: 2023 春学期
 description: Course Website
 ---
 
 #### 课程信息
-* 时间/地点: 周三 14:00-15:40 数理楼142; 周五 14:00-15:40 数理楼144
-* [课程大纲](Lectures/syllabus2022spring.pdf)
+* 时间/地点: 周一 8:00-9:40 数理楼138; 周四 10:00-11:40 数理楼136
+* [课程大纲](Lectures/syllabus_grad.pdf)
+
+<!--
 * 3/30 - 4/8的课程采用网络授课，视频及课件将上传到课程QQ群 (705856267) 
 
 <img src="Lectures/QRcode.png" alt="统计计算2022春学期研究生交流群" style="height: 225px; width:200px;"/>
+-->
 
 ---
 #### 教学安排
 
 | 日期 | | 教学内容 | |  课件  | 
 |---------------|---|--------------------------------|---|----------|
-| 3/9 || 随机变量的抽样方法 || [chapter1](Lectures/chapter1.pdf) [(handout)](Lectures/chapter1_handout.pdf) |
+| 3/6 || 随机变量的抽样方法 || [chapter1](Lectures/chapter1.pdf) [(handout)](Lectures/chapter1_handout.pdf) |
+
+<!--
 | 3/11 || 随机变量的抽样方法 || [chapter1](Lectures/chapter1.pdf) [(handout)](Lectures/chapter1_handout.pdf) |
 | 3/16 || 随机向量的抽样方法 || [chapter2](Lectures/chapter2.pdf) [(handout)](Lectures/chapter2_handout.pdf) |
 | 3/18 || 随机向量的抽样方法 || [chapter2](Lectures/chapter2.pdf) [(handout)](Lectures/chapter2_handout.pdf) |
@@ -29,4 +34,4 @@ description: Course Website
 | 4/8 || Newton算法，坐标下降法 ||  |
 | 4/13 || 支持向量机 || [chapter11](Lectures/chapter11.pdf) [(handout)](Lectures/chapter11_handout.pdf) |
 | 4/15 - 4/29 ||  论文报告  || [时间安排](https://docs.qq.com/sheet/DRHdUU1hIeVB5Z2ln?tab=BB08J2) |
-
+-->
