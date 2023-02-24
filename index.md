@@ -11,7 +11,6 @@ description: Course Website
 
 <!--
 * 3/30 - 4/8的课程采用网络授课，视频及课件将上传到课程QQ群 (705856267) 
-
 <img src="Lectures/QRcode.png" alt="统计计算2022春学期研究生交流群" style="height: 225px; width:200px;"/>
 -->
 
@@ -20,7 +19,7 @@ description: Course Website
 
 | 日期 | | 教学内容 | |  课件  | 
 |---------------|---|--------------------------------|---|----------|
-| 3/6 || 随机变量的抽样方法 || [chapter1](Lectures/chapter1.pdf) [(handout)](Lectures/chapter1_handout.pdf) |
+| 3/6 || 随机变量的抽样方法 || [chapter1](Lectures/chapter1_handout.pdf) |
 
 <!--
 | 3/11 || 随机变量的抽样方法 || [chapter1](Lectures/chapter1.pdf) [(handout)](Lectures/chapter1_handout.pdf) |
