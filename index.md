@@ -21,13 +21,13 @@ description: Course Website
 |---------------|---|--------------------------------|---|----------|
 | 3/6 || 随机变量的抽样方法 || [chapter1](Lectures/chapter1_handout.pdf) |
 | 3/9 || 随机向量的抽样方法 || [chapter2](Lectures/chapter2_handout.pdf) |
-| 3/13 || 随机向量的抽样方法 ||  |
+| 3/13 || 随机向量的抽样方法 (cont) ||  |
 | 3/16 || 随机过程的抽样方法 || [chapter3](Lectures/chapter3_handout.pdf) |
+| 3/20 || 随机过程的抽样方法 (cont) ||  |
+| 3/23 || Gibbs抽样和马尔可夫链 || [chapter4](Lectures/chapter4_handout.pdf) |
 
 <!--
 
-| 3/23 (13:30 - 15:00) || 随机过程的抽样方法 || [chapter3](Lectures/chapter3.pdf) [(handout)](Lectures/chapter3_handout.pdf)  |
-| 3/25 || Gibbs抽样 || [chapter4](Lectures/chapter4.pdf) [(handout)](Lectures/chapter4_handout.pdf) |
 | 3/30 || MCMC算法 ||  |
 | 4/1 || HMC, SMC算法 ||  |
 | 4/6 || EM算法，梯度下降法 ||  |
