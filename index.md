@@ -25,7 +25,7 @@ description: Course Website
 | 3/16 || 随机过程的抽样方法 || [chapter3](Lectures/chapter3_handout.pdf) |
 | 3/20 || 随机过程的抽样方法 (cont) ||  |
 | 3/23 || Gibbs抽样和马尔可夫链 || [chapter4](Lectures/chapter4_handout.pdf) |
-
+| 3/27 || Metropolis-Hastings算法 || [chapter5](Lectures/chapter5_handout.pdf) |
 <!--
 
 | 3/30 || MCMC算法 ||  |
