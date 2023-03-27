@@ -26,6 +26,8 @@ description: Course Website
 | 3/20 || 随机过程的抽样方法 (cont) ||  |
 | 3/23 || Gibbs抽样和马尔可夫链 || [chapter4](Lectures/chapter4_handout.pdf) |
 | 3/27 || Metropolis-Hastings算法 || [chapter5](Lectures/chapter5_handout.pdf) |
+| 3/30 || HMC算法 ||  |
+| 4/17 - 4/27 ||  论文报告  || [时间安排](https://docs.qq.com/sheet/DRHdUU1hIeVB5Z2ln?tab=BB08J2) |
 
 <!--
 | 3/30 || MCMC算法 ||  |
@@ -33,5 +35,4 @@ description: Course Website
 | 4/6 || EM算法，梯度下降法 ||  |
 | 4/8 || Newton算法，坐标下降法 ||  |
 | 4/13 || 支持向量机 || [chapter11](Lectures/chapter11.pdf) [(handout)](Lectures/chapter11_handout.pdf) |
-| 4/15 - 4/29 ||  论文报告  || [时间安排](https://docs.qq.com/sheet/DRHdUU1hIeVB5Z2ln?tab=BB08J2) |
 -->
