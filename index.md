@@ -29,9 +29,10 @@ description: Course Website
 | 3/30 || HMC算法 ||  |
 | 4/3 || SMC算法 ||  |
 | 4/6 || 支持向量机 || [chapter11](Lectures/chapter11_handout.pdf) |
+| 4/10 || ADMM算法 || [chapter12](Lectures/chapter12_handout.pdf) |
 | 4/17 - 4/27 ||  论文报告  || [时间安排](https://docs.qq.com/sheet/DRHdUU1hIeVB5Z2ln?tab=BB08J2) |
 
 <!--
-| 4/6 || EM算法，梯度下降法 ||  |
+
 | 4/8 || Newton算法，坐标下降法 ||  |
 -->
