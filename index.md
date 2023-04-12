@@ -30,6 +30,7 @@ description: Course Website
 | 4/3 || SMC算法 ||  |
 | 4/6 || 支持向量机 || [chapter11](Lectures/chapter11_handout.pdf) |
 | 4/10 || ADMM算法 || [chapter12](Lectures/chapter12_handout.pdf) |
+| 4/13 || AdaBoost算法 || [chapter10](Lectures/chapter10_handout.pdf) |
 | 4/17 - 4/27 ||  论文报告  || [时间安排](https://docs.qq.com/sheet/DRHdUU1hIeVB5Z2ln?tab=BB08J2) |
 
 <!--
