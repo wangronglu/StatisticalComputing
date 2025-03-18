@@ -7,7 +7,9 @@ description: Course Website
 
 #### 课程信息
 * 时间/地点: 周一 8:00-9:40 数理楼145; 周四 10:00-11:40 数理楼145
+<!--
 * [课程大纲](Lectures/syllabus_grad.pdf)
+-->
 
 <!--
 * 3/30 - 4/8的课程采用网络授课，视频及课件将上传到课程QQ群 (705856267) 
@@ -31,7 +33,7 @@ description: Course Website
 | 4/6 || 支持向量机 || [chapter11](Lectures/chapter11_handout.pdf) |
 | 4/10 || ADMM算法 || [chapter12](Lectures/chapter12_handout.pdf) |
 | 4/13 || AdaBoost算法 || [chapter10](Lectures/chapter10_handout.pdf) |
-| 4/17 - 4/27 ||  论文报告  || [时间安排](https://docs.qq.com/sheet/DRHdUU1hIeVB5Z2ln?tab=BB08J2) |
+| 4/17 - 4/27 ||  论文报告  || <!-- [时间安排](https://docs.qq.com/sheet/DRHdUU1hIeVB5Z2ln?tab=BB08J2) --> |
 
 <!--
 
